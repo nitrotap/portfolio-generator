@@ -1,0 +1,22 @@
+{
+  "name": "09-portfolio-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitrotap/portfolio-generator.git"
+  },
+  "author": "nitrotap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitrotap/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/nitrotap/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
